@@ -4,23 +4,8 @@ title: About
 navigation: true
 ---
 
-This is the base Jekyll theme. You can find out more info about customizing your Jekyll theme, as well as basic Jekyll usage documentation at [jekyllrb.com](http://jekyllrb.com/)
+My name is Jens Holmberg. I'm a computer science student who's passionate about technology. I'm especially interested in how we can use the power of computers make people's lives more enjoyable and valuable. This blog mainly about documenting exciting things I come across on teh interwebz.
 
-You can find the source code for the Jekyll new theme at:
-[overkyll](https://github.com/bertrandkeller/overkyll-jekyll-theme)
+You can find the source code for this blog on
+[Github](https://github.com/Nillkki/nillkki.github.io)
 
-You can find the source code for Jekyll at
-[jekyll](https://github.com/jekyll/jekyll)
-
-This is the base Jekyll theme. You can find out more info about customizing your Jekyll theme, as well as basic Jekyll usage documentation at [jekyllrb.com](https://jekyllrb.com/)
-
-You can find the source code for Minima at GitHub:
-[jekyll][jekyll-organization] /
-[minima](https://github.com/jekyll/minima)
-
-You can find the source code for Jekyll at GitHub:
-[jekyll][jekyll-organization] /
-[jekyll](https://github.com/jekyll/jekyll)
-
-
-[jekyll-organization]: https://github.com/jekyll
